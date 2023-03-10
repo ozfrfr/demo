@@ -6,8 +6,8 @@ int main(){
 	int *pj = &j;
 
 	printf("value of i = %d\n", *p);
-    printf("value of j = %d\n", *pj);
+	printf("value of j = %d\n", *pj);
 	printf("address of i = %p\n", &i);
 	printf("address of j = %p\n", &j);
-    return 0;
+	return 0;
 }
