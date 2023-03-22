@@ -18,5 +18,5 @@ gcc rps.c -o rps
 * The game validates the user's input and prompts the user to enter a valid choice if an invalid one is entered.
 * The game randomly chooses its own move using the rand() function from the C standard library.
 ## Files
-### rps.c: Contains the C code for the game.
-### README.md: The readme file you are currently reading.
+* rps.c: Contains the C code for the game.
+* README.md: The readme file you are currently reading.
